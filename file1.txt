@@ -1,2 +1,4 @@
 Changes made by Dev2
 Changes made by Dev1
+
+Changes made to understand .git by Dev1
