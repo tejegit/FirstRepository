@@ -6,3 +6,6 @@ Changes made to understand .git by Dev1
 Changes made in main branch
 
 Changes made in main branch to test git merge using local git
+
+Modified in main branch to test git merge on github
+
