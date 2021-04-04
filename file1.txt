@@ -2,3 +2,7 @@ Changes made by Dev2
 Changes made by Dev1
 
 Changes made to understand .git by Dev1
+
+Changes made in main branch
+
+Modified in main branch to test git merge on github
